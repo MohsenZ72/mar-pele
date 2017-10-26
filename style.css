@@ -1,0 +1,77 @@
+
+body{
+    position: relative;
+    background-color: darkred;
+}
+table{
+
+    position: absolute;
+    left: 600px;
+    top: 150px;
+background-color: lightyellow;
+
+}
+.trclose{
+    background-color: blue;
+    border:2px solid black;
+    font-size: 0;
+   width: 25px;
+    height: 25px;
+
+}
+.trclose:hover{
+    background-color: lightcoral;
+
+}
+.tropne{
+    text-align: center;
+    background-color: transparent;
+   height: 27px;
+    font-size: 20px;
+    width: 27px;
+
+}
+.bombCloseimg{
+
+    text-align: center;
+    width:0;
+    height: 0;
+
+}
+.openbomb{
+
+    text-align: right;
+    width: 20px;
+    height: 20px;
+}
+.sefr{
+    font-size:0;
+}
+input{
+    width: 150px;
+    height: 30px;
+position: absolute;
+    top: 20px;
+    left: 680px;
+
+}
+input:hover{
+    background-color: gray;
+}
+.game2{
+    border: 0;
+    width: 0;
+    height: 0;
+    font-size: 0;
+}
+.tdboomb{
+    background-color: blue;
+    border:2px solid black;
+    font-size: 0;
+    width: 25px;
+    height: 25px;
+}
+.flag{
+    width: 20px;
+    height: 20px;
+}
